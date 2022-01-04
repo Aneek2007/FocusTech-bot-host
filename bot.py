@@ -711,6 +711,6 @@ async def nowplayer(ctx):
 #                     await member.remove_roles(role)
 
 
-client.run('OTIyNTE5ODQ5MTAyNjI2ODE3.YcCpjw.nP0agxfAlo78-SFBfwvihszYr0o')
+client.run('TOKEN')
 
 
