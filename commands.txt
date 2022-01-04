@@ -1,0 +1,16 @@
+Fun = {
+        say, wanted
+}
+Games = {
+    8ball
+}
+Moderation = {
+    kick, ban, unban, mute, unmute, giveaway, setprefix, slowmode, purge
+}
+Music = {
+    play, join, leave, pause, resume, loop, queue
+}
+Information = {
+    avatar, server info, who is, level
+}
+
